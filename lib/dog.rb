@@ -23,7 +23,6 @@ def coat_color
   @coat_color
 end
 
-end
 
 fido = Dog.new("Big", "Loving", "Blue eyes", "Black coat")
 
